@@ -1,5 +1,5 @@
 <?php
-//This is test1
+//This is test2
 define("ACSQL_DB_USER","glider_covai");
 define("ACSQL_DB_PASSWORD","ravi");
 define("ACSQL_DB_NAME","glider_covai");
